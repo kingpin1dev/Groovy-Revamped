@@ -12,7 +12,7 @@
   <a href="https://github.com/kingpin1dev/Groovy-Revamped/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/kingpin1dev/Groovy-Revamped?style=flat-square" alt="License">
   </a>
-  <img src="https://img.shields.io/badge/node-%3E%3D16.9.0-brightgreen?style=flat-square" alt="Node Version">
+  <img src="https://img.shields.io/badge/node-%3E%3D22.12.0-brightgreen?style=flat-square" alt="Node Version">
   <img src="https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square" alt="discord.js">
 </p>
 
@@ -38,7 +38,7 @@ Built from the ground up with a modular architecture using discord.js v14, @disc
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) v16.9.0 or higher
+- [Node.js](https://nodejs.org/) v22.12.0 or higher
 - A [Discord Bot Token](https://discord.com/developers/applications)
 - FFmpeg installed on your system
 
